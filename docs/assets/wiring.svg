@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1530" viewBox="0 0 1800 1530" role="img">
+<title>松弦：五路免焊电气接线图</title>
+<rect width="1800" height="1530" fill="#F6F8F7" />
+<text x="60" y="42" fill="#183B35" font-family="Microsoft YaHei,Arial,sans-serif" font-size="46" font-weight="700" text-anchor="start" dominant-baseline="text-before-edge">五路免焊电气接线图</text>
+<text x="60" y="105" fill="#54716A" font-family="Microsoft YaHei,Arial,sans-serif" font-size="26" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">五路压力采集 · 1 kΩ ×3 / 10 kΩ ×2 · 3V3 分压 · 独立 ADC 信号</text>
+<rect x="60" y="160" width="1680" height="105" rx="16" fill="#183B35" stroke="none" stroke-width="1" />
+<text x="90" y="179" fill="#FFFFFF" font-family="Microsoft YaHei,Arial,sans-serif" font-size="27" font-weight="700" text-anchor="start" dominant-baseline="text-before-edge">采集板 / Wi-Fi 上传</text>
+<text x="435" y="181" fill="#94D8BA" font-family="Microsoft YaHei,Arial,sans-serif" font-size="36" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">→</text>
+<text x="510" y="179" fill="#FFFFFF" font-family="Microsoft YaHei,Arial,sans-serif" font-size="27" font-weight="700" text-anchor="start" dominant-baseline="text-before-edge">电脑服务端 / 数据与页面</text>
+<text x="1070" y="181" fill="#94D8BA" font-family="Microsoft YaHei,Arial,sans-serif" font-size="28" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">→ 页面 / SSE →</text>
+<text x="1360" y="179" fill="#FFFFFF" font-family="Microsoft YaHei,Arial,sans-serif" font-size="27" font-weight="700" text-anchor="start" dominant-baseline="text-before-edge">手机网页 / 音频</text>
+<text x="90" y="221" fill="#DDECE7" font-family="Microsoft YaHei,Arial,sans-serif" font-size="22" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">开发板通过 USB 供电；电脑处理上传数据并托管页面；传感器接 3V3 与 GND。</text>
+<rect x="60" y="305" width="1680" height="187" rx="16" fill="#FFFFFF" stroke="#CFDAD6" stroke-width="1" />
+<rect x="80" y="324" width="385" height="147" rx="12" fill="#F0F6F3" stroke="none" stroke-width="1" />
+<text x="102" y="340" fill="#087E70" font-family="Microsoft YaHei,Arial,sans-serif" font-size="29" font-weight="700" text-anchor="start" dominant-baseline="text-before-edge">P_C  背部中央</text>
+<text x="102" y="392" fill="#183B35" font-family="Microsoft YaHei,Arial,sans-serif" font-size="24" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">方形压力传感片</text>
+<text x="102" y="427" fill="#54716A" font-family="Microsoft YaHei,Arial,sans-serif" font-size="22" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">前后姿态参考</text>
+<text x="520" y="349" fill="#B53D36" font-family="Microsoft YaHei,Arial,sans-serif" font-size="25" font-weight="700" text-anchor="start" dominant-baseline="text-before-edge">3V3</text>
+<polyline points="615,365 702,365" fill="none" stroke="#B53D36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+<circle cx="615" cy="365" r="5" fill="#B53D36" stroke="none" stroke-width="1" />
+<rect x="702" y="339" width="215" height="52" rx="8" fill="#F6FAF8" stroke="#087E70" stroke-width="2" />
+<text x="810" y="347" fill="#087E70" font-family="Microsoft YaHei,Arial,sans-serif" font-size="23" font-weight="400" text-anchor="middle" dominant-baseline="text-before-edge">FSR 两个插脚</text>
+<polyline points="917,365 1015,365" fill="none" stroke="#087E70" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+<circle cx="1015" cy="365" r="7" fill="#087E70" stroke="none" stroke-width="1" />
+<polyline points="1015,365 1240,365" fill="none" stroke="#087E70" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+<text x="1260" y="345" fill="#087E70" font-family="Microsoft YaHei,Arial,sans-serif" font-size="29" font-weight="700" text-anchor="start" dominant-baseline="text-before-edge">GPIO8  /  ADC1</text>
+<text x="1260" y="391" fill="#54716A" font-family="Microsoft YaHei,Arial,sans-serif" font-size="22" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">读取节点 → B10</text>
+<polyline points="1015,365 1015,452 1080,452" fill="none" stroke="#087E70" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+<rect x="1080" y="428" width="210" height="48" rx="8" fill="#FFF6E9" stroke="#B96D13" stroke-width="2" />
+<text x="1185" y="436" fill="#B96D13" font-family="Microsoft YaHei,Arial,sans-serif" font-size="24" font-weight="700" text-anchor="middle" dominant-baseline="text-before-edge">1 kΩ</text>
+<polyline points="1290,452 1398,452" fill="none" stroke="#48545C" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+<circle cx="1398" cy="452" r="5" fill="#48545C" stroke="none" stroke-width="1" />
+<text x="1415" y="434" fill="#48545C" font-family="Microsoft YaHei,Arial,sans-serif" font-size="26" font-weight="700" text-anchor="start" dominant-baseline="text-before-edge">GND</text>
+<text x="520" y="447" fill="#54716A" font-family="Microsoft YaHei,Arial,sans-serif" font-size="20" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">两脚不分正负</text>
+<rect x="60" y="509" width="1680" height="187" rx="16" fill="#FFFFFF" stroke="#CFDAD6" stroke-width="1" />
+<rect x="80" y="528" width="385" height="147" rx="12" fill="#F0F6F3" stroke="none" stroke-width="1" />
+<text x="102" y="544" fill="#216AA5" font-family="Microsoft YaHei,Arial,sans-serif" font-size="29" font-weight="700" text-anchor="start" dominant-baseline="text-before-edge">S_L  臀下左</text>
+<text x="102" y="596" fill="#183B35" font-family="Microsoft YaHei,Arial,sans-serif" font-size="24" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">圆形压力传感片</text>
+<text x="102" y="631" fill="#54716A" font-family="Microsoft YaHei,Arial,sans-serif" font-size="22" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">收放与支撑参考</text>
+<text x="520" y="553" fill="#B53D36" font-family="Microsoft YaHei,Arial,sans-serif" font-size="25" font-weight="700" text-anchor="start" dominant-baseline="text-before-edge">3V3</text>
+<polyline points="615,569 702,569" fill="none" stroke="#B53D36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+<circle cx="615" cy="569" r="5" fill="#B53D36" stroke="none" stroke-width="1" />
+<rect x="702" y="543" width="215" height="52" rx="8" fill="#F6FAF8" stroke="#216AA5" stroke-width="2" />
+<text x="810" y="551" fill="#216AA5" font-family="Microsoft YaHei,Arial,sans-serif" font-size="23" font-weight="400" text-anchor="middle" dominant-baseline="text-before-edge">FSR 两个插脚</text>
+<polyline points="917,569 1015,569" fill="none" stroke="#216AA5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+<circle cx="1015" cy="569" r="7" fill="#216AA5" stroke="none" stroke-width="1" />
+<polyline points="1015,569 1240,569" fill="none" stroke="#216AA5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+<text x="1260" y="549" fill="#216AA5" font-family="Microsoft YaHei,Arial,sans-serif" font-size="29" font-weight="700" text-anchor="start" dominant-baseline="text-before-edge">GPIO4  /  ADC1</text>
+<text x="1260" y="595" fill="#54716A" font-family="Microsoft YaHei,Arial,sans-serif" font-size="22" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">读取节点 → B14</text>
+<polyline points="1015,569 1015,656 1080,656" fill="none" stroke="#216AA5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+<rect x="1080" y="632" width="210" height="48" rx="8" fill="#FFF6E9" stroke="#B96D13" stroke-width="2" />
+<text x="1185" y="640" fill="#B96D13" font-family="Microsoft YaHei,Arial,sans-serif" font-size="24" font-weight="700" text-anchor="middle" dominant-baseline="text-before-edge">1 kΩ</text>
+<polyline points="1290,656 1398,656" fill="none" stroke="#48545C" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+<circle cx="1398" cy="656" r="5" fill="#48545C" stroke="none" stroke-width="1" />
+<text x="1415" y="638" fill="#48545C" font-family="Microsoft YaHei,Arial,sans-serif" font-size="26" font-weight="700" text-anchor="start" dominant-baseline="text-before-edge">GND</text>
+<text x="520" y="651" fill="#54716A" font-family="Microsoft YaHei,Arial,sans-serif" font-size="20" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">两脚不分正负</text>
+<rect x="60" y="713" width="1680" height="187" rx="16" fill="#FFFFFF" stroke="#CFDAD6" stroke-width="1" />
+<rect x="80" y="732" width="385" height="147" rx="12" fill="#F0F6F3" stroke="none" stroke-width="1" />
+<text x="102" y="748" fill="#216AA5" font-family="Microsoft YaHei,Arial,sans-serif" font-size="29" font-weight="700" text-anchor="start" dominant-baseline="text-before-edge">S_R  臀下右</text>
+<text x="102" y="800" fill="#183B35" font-family="Microsoft YaHei,Arial,sans-serif" font-size="24" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">圆形压力传感片</text>
+<text x="102" y="835" fill="#54716A" font-family="Microsoft YaHei,Arial,sans-serif" font-size="22" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">收放与支撑参考</text>
+<text x="520" y="757" fill="#B53D36" font-family="Microsoft YaHei,Arial,sans-serif" font-size="25" font-weight="700" text-anchor="start" dominant-baseline="text-before-edge">3V3</text>
+<polyline points="615,773 702,773" fill="none" stroke="#B53D36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+<circle cx="615" cy="773" r="5" fill="#B53D36" stroke="none" stroke-width="1" />
+<rect x="702" y="747" width="215" height="52" rx="8" fill="#F6FAF8" stroke="#216AA5" stroke-width="2" />
+<text x="810" y="755" fill="#216AA5" font-family="Microsoft YaHei,Arial,sans-serif" font-size="23" font-weight="400" text-anchor="middle" dominant-baseline="text-before-edge">FSR 两个插脚</text>
+<polyline points="917,773 1015,773" fill="none" stroke="#216AA5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+<circle cx="1015" cy="773" r="7" fill="#216AA5" stroke="none" stroke-width="1" />
+<polyline points="1015,773 1240,773" fill="none" stroke="#216AA5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+<text x="1260" y="753" fill="#216AA5" font-family="Microsoft YaHei,Arial,sans-serif" font-size="29" font-weight="700" text-anchor="start" dominant-baseline="text-before-edge">GPIO5  /  ADC1</text>
+<text x="1260" y="799" fill="#54716A" font-family="Microsoft YaHei,Arial,sans-serif" font-size="22" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">读取节点 → B18</text>
+<polyline points="1015,773 1015,860 1080,860" fill="none" stroke="#216AA5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+<rect x="1080" y="836" width="210" height="48" rx="8" fill="#FFF6E9" stroke="#B96D13" stroke-width="2" />
+<text x="1185" y="844" fill="#B96D13" font-family="Microsoft YaHei,Arial,sans-serif" font-size="24" font-weight="700" text-anchor="middle" dominant-baseline="text-before-edge">1 kΩ</text>
+<polyline points="1290,860 1398,860" fill="none" stroke="#48545C" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+<circle cx="1398" cy="860" r="5" fill="#48545C" stroke="none" stroke-width="1" />
+<text x="1415" y="842" fill="#48545C" font-family="Microsoft YaHei,Arial,sans-serif" font-size="26" font-weight="700" text-anchor="start" dominant-baseline="text-before-edge">GND</text>
+<text x="520" y="855" fill="#54716A" font-family="Microsoft YaHei,Arial,sans-serif" font-size="20" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">两脚不分正负</text>
+<rect x="60" y="917" width="1680" height="187" rx="16" fill="#FFFFFF" stroke="#CFDAD6" stroke-width="1" />
+<rect x="80" y="936" width="385" height="147" rx="12" fill="#F0F6F3" stroke="none" stroke-width="1" />
+<text x="102" y="952" fill="#6B55A6" font-family="Microsoft YaHei,Arial,sans-serif" font-size="29" font-weight="700" text-anchor="start" dominant-baseline="text-before-edge">B_L  腿侧左</text>
+<text x="102" y="1004" fill="#183B35" font-family="Microsoft YaHei,Arial,sans-serif" font-size="24" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">圆形压力传感片</text>
+<text x="102" y="1039" fill="#54716A" font-family="Microsoft YaHei,Arial,sans-serif" font-size="22" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">姿态变化辅助输入</text>
+<text x="520" y="961" fill="#B53D36" font-family="Microsoft YaHei,Arial,sans-serif" font-size="25" font-weight="700" text-anchor="start" dominant-baseline="text-before-edge">3V3</text>
+<polyline points="615,977 702,977" fill="none" stroke="#B53D36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+<circle cx="615" cy="977" r="5" fill="#B53D36" stroke="none" stroke-width="1" />
+<rect x="702" y="951" width="215" height="52" rx="8" fill="#F6FAF8" stroke="#6B55A6" stroke-width="2" />
+<text x="810" y="959" fill="#6B55A6" font-family="Microsoft YaHei,Arial,sans-serif" font-size="23" font-weight="400" text-anchor="middle" dominant-baseline="text-before-edge">FSR 两个插脚</text>
+<polyline points="917,977 1015,977" fill="none" stroke="#6B55A6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+<circle cx="1015" cy="977" r="7" fill="#6B55A6" stroke="none" stroke-width="1" />
+<polyline points="1015,977 1240,977" fill="none" stroke="#6B55A6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+<text x="1260" y="957" fill="#6B55A6" font-family="Microsoft YaHei,Arial,sans-serif" font-size="29" font-weight="700" text-anchor="start" dominant-baseline="text-before-edge">GPIO6  /  ADC1</text>
+<text x="1260" y="1003" fill="#54716A" font-family="Microsoft YaHei,Arial,sans-serif" font-size="22" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">读取节点 → B22</text>
+<polyline points="1015,977 1015,1064 1080,1064" fill="none" stroke="#6B55A6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+<rect x="1080" y="1040" width="210" height="48" rx="8" fill="#FFF6E9" stroke="#B96D13" stroke-width="2" />
+<text x="1185" y="1048" fill="#B96D13" font-family="Microsoft YaHei,Arial,sans-serif" font-size="24" font-weight="400" text-anchor="middle" dominant-baseline="text-before-edge">10 kΩ</text>
+<polyline points="1290,1064 1398,1064" fill="none" stroke="#48545C" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+<circle cx="1398" cy="1064" r="5" fill="#48545C" stroke="none" stroke-width="1" />
+<text x="1415" y="1046" fill="#48545C" font-family="Microsoft YaHei,Arial,sans-serif" font-size="26" font-weight="700" text-anchor="start" dominant-baseline="text-before-edge">GND</text>
+<text x="520" y="1059" fill="#54716A" font-family="Microsoft YaHei,Arial,sans-serif" font-size="20" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">两脚不分正负</text>
+<rect x="60" y="1121" width="1680" height="187" rx="16" fill="#FFFFFF" stroke="#CFDAD6" stroke-width="1" />
+<rect x="80" y="1140" width="385" height="147" rx="12" fill="#F0F6F3" stroke="none" stroke-width="1" />
+<text x="102" y="1156" fill="#6B55A6" font-family="Microsoft YaHei,Arial,sans-serif" font-size="29" font-weight="700" text-anchor="start" dominant-baseline="text-before-edge">B_R  腿侧右</text>
+<text x="102" y="1208" fill="#183B35" font-family="Microsoft YaHei,Arial,sans-serif" font-size="24" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">圆形压力传感片</text>
+<text x="102" y="1243" fill="#54716A" font-family="Microsoft YaHei,Arial,sans-serif" font-size="22" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">姿态变化辅助输入</text>
+<text x="520" y="1165" fill="#B53D36" font-family="Microsoft YaHei,Arial,sans-serif" font-size="25" font-weight="700" text-anchor="start" dominant-baseline="text-before-edge">3V3</text>
+<polyline points="615,1181 702,1181" fill="none" stroke="#B53D36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+<circle cx="615" cy="1181" r="5" fill="#B53D36" stroke="none" stroke-width="1" />
+<rect x="702" y="1155" width="215" height="52" rx="8" fill="#F6FAF8" stroke="#6B55A6" stroke-width="2" />
+<text x="810" y="1163" fill="#6B55A6" font-family="Microsoft YaHei,Arial,sans-serif" font-size="23" font-weight="400" text-anchor="middle" dominant-baseline="text-before-edge">FSR 两个插脚</text>
+<polyline points="917,1181 1015,1181" fill="none" stroke="#6B55A6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+<circle cx="1015" cy="1181" r="7" fill="#6B55A6" stroke="none" stroke-width="1" />
+<polyline points="1015,1181 1240,1181" fill="none" stroke="#6B55A6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+<text x="1260" y="1161" fill="#6B55A6" font-family="Microsoft YaHei,Arial,sans-serif" font-size="29" font-weight="700" text-anchor="start" dominant-baseline="text-before-edge">GPIO7  /  ADC1</text>
+<text x="1260" y="1207" fill="#54716A" font-family="Microsoft YaHei,Arial,sans-serif" font-size="22" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">读取节点 → B26</text>
+<polyline points="1015,1181 1015,1268 1080,1268" fill="none" stroke="#6B55A6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+<rect x="1080" y="1244" width="210" height="48" rx="8" fill="#FFF6E9" stroke="#B96D13" stroke-width="2" />
+<text x="1185" y="1252" fill="#B96D13" font-family="Microsoft YaHei,Arial,sans-serif" font-size="24" font-weight="400" text-anchor="middle" dominant-baseline="text-before-edge">10 kΩ</text>
+<polyline points="1290,1268 1398,1268" fill="none" stroke="#48545C" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+<circle cx="1398" cy="1268" r="5" fill="#48545C" stroke="none" stroke-width="1" />
+<text x="1415" y="1250" fill="#48545C" font-family="Microsoft YaHei,Arial,sans-serif" font-size="26" font-weight="700" text-anchor="start" dominant-baseline="text-before-edge">GND</text>
+<text x="520" y="1263" fill="#54716A" font-family="Microsoft YaHei,Arial,sans-serif" font-size="20" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">两脚不分正负</text>
+<rect x="60" y="1340" width="1680" height="132" rx="16" fill="#E7F4EE" stroke="none" stroke-width="1" />
+<text x="86" y="1358" fill="#183B35" font-family="Microsoft YaHei,Arial,sans-serif" font-size="26" font-weight="700" text-anchor="start" dominant-baseline="text-before-edge">全部 3V3 标签接同一电源；全部 GND 标签接同一地。GPIO 数字是引脚名称。</text>
+<text x="86" y="1403" fill="#183B35" font-family="Microsoft YaHei,Arial,sans-serif" font-size="24" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">当前阻值为工程起点；各路量程应结合实际软垫、传感器与加载范围校准。</text>
+<text x="60" y="1487" fill="#54716A" font-family="Microsoft YaHei,Arial,sans-serif" font-size="21" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">公对母 17 根 + 公对公 7 根。断电完成接线；量程或传感片位置改变后重新建立个人参考。</text>
+</svg>

@@ -1,0 +1,554 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1640" viewBox="0 0 1800 1640" role="img">
+<title>松弦：五路免焊面包板孔位图</title>
+<rect width="1800" height="1640" fill="#F6F8F7" />
+<text x="60" y="40" fill="#183B35" font-family="Microsoft YaHei,Arial,sans-serif" font-size="45" font-weight="700" text-anchor="start" dominant-baseline="text-before-edge">五路免焊面包板孔位图</text>
+<text x="60" y="101" fill="#54716A" font-family="Microsoft YaHei,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">常见 830 孔面包板 · 只展示第 1–30 排 · 开发板置于旁边 · 按丝印找 GPIO</text>
+<rect x="60" y="149" width="1680" height="117" rx="16" fill="#183B35" stroke="none" stroke-width="1" />
+<text x="88" y="165" fill="#FFFFFF" font-family="Microsoft YaHei,Arial,sans-serif" font-size="28" font-weight="700" text-anchor="start" dominant-baseline="text-before-edge">读图：A–E 同排互通，F–J 同排互通；中央沟槽两边互不连通。</text>
+<text x="88" y="208" fill="#DDECE7" font-family="Microsoft YaHei,Arial,sans-serif" font-size="24" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">电源用普通第 2、3 排孔；外侧长电源排留空。传感器线与 ADC 线按文字去向插入。</text>
+<rect x="575" y="297" width="590" height="1018" rx="18" fill="#FDFEFE" stroke="#CFDAD6" stroke-width="2" />
+<rect x="850" y="333" width="47" height="951" rx="5" fill="#E9EEEC" stroke="none" stroke-width="1" />
+<text x="620" y="310" fill="#183B35" font-family="Microsoft YaHei,Arial,sans-serif" font-size="24" font-weight="700" text-anchor="middle" dominant-baseline="text-before-edge">A</text>
+<text x="670" y="310" fill="#183B35" font-family="Microsoft YaHei,Arial,sans-serif" font-size="24" font-weight="700" text-anchor="middle" dominant-baseline="text-before-edge">B</text>
+<text x="720" y="310" fill="#183B35" font-family="Microsoft YaHei,Arial,sans-serif" font-size="24" font-weight="700" text-anchor="middle" dominant-baseline="text-before-edge">C</text>
+<text x="770" y="310" fill="#183B35" font-family="Microsoft YaHei,Arial,sans-serif" font-size="24" font-weight="700" text-anchor="middle" dominant-baseline="text-before-edge">D</text>
+<text x="820" y="310" fill="#183B35" font-family="Microsoft YaHei,Arial,sans-serif" font-size="24" font-weight="700" text-anchor="middle" dominant-baseline="text-before-edge">E</text>
+<text x="930" y="310" fill="#183B35" font-family="Microsoft YaHei,Arial,sans-serif" font-size="24" font-weight="700" text-anchor="middle" dominant-baseline="text-before-edge">F</text>
+<text x="980" y="310" fill="#183B35" font-family="Microsoft YaHei,Arial,sans-serif" font-size="24" font-weight="700" text-anchor="middle" dominant-baseline="text-before-edge">G</text>
+<text x="1030" y="310" fill="#183B35" font-family="Microsoft YaHei,Arial,sans-serif" font-size="24" font-weight="700" text-anchor="middle" dominant-baseline="text-before-edge">H</text>
+<text x="1080" y="310" fill="#183B35" font-family="Microsoft YaHei,Arial,sans-serif" font-size="24" font-weight="700" text-anchor="middle" dominant-baseline="text-before-edge">I</text>
+<text x="1130" y="310" fill="#183B35" font-family="Microsoft YaHei,Arial,sans-serif" font-size="24" font-weight="700" text-anchor="middle" dominant-baseline="text-before-edge">J</text>
+<polyline points="620,360 820,360" fill="none" stroke="#CBDAD4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<polyline points="930,360 1130,360" fill="none" stroke="#D0D9DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<text x="591" y="350" fill="#54716A" font-family="Microsoft YaHei,Arial,sans-serif" font-size="17" font-weight="400" text-anchor="middle" dominant-baseline="text-before-edge">1</text>
+<circle cx="620" cy="360" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="670" cy="360" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="720" cy="360" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="770" cy="360" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="820" cy="360" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="930" cy="360" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="980" cy="360" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1030" cy="360" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1080" cy="360" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1130" cy="360" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<rect x="602" y="379" width="238" height="24" rx="5" fill="#FCECEA" stroke="none" stroke-width="1" />
+<rect x="911" y="379" width="238" height="24" rx="5" fill="#EDF0F2" stroke="none" stroke-width="1" />
+<polyline points="620,391 820,391" fill="none" stroke="#CBDAD4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<polyline points="930,391 1130,391" fill="none" stroke="#D0D9DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<text x="591" y="381" fill="#54716A" font-family="Microsoft YaHei,Arial,sans-serif" font-size="17" font-weight="400" text-anchor="middle" dominant-baseline="text-before-edge">2</text>
+<circle cx="620" cy="391" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="670" cy="391" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="720" cy="391" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="770" cy="391" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="820" cy="391" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="930" cy="391" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="980" cy="391" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1030" cy="391" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1080" cy="391" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1130" cy="391" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<rect x="602" y="410" width="238" height="24" rx="5" fill="#FCECEA" stroke="none" stroke-width="1" />
+<rect x="911" y="410" width="238" height="24" rx="5" fill="#EDF0F2" stroke="none" stroke-width="1" />
+<polyline points="620,422 820,422" fill="none" stroke="#CBDAD4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<polyline points="930,422 1130,422" fill="none" stroke="#D0D9DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<text x="591" y="412" fill="#54716A" font-family="Microsoft YaHei,Arial,sans-serif" font-size="17" font-weight="400" text-anchor="middle" dominant-baseline="text-before-edge">3</text>
+<circle cx="620" cy="422" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="670" cy="422" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="720" cy="422" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="770" cy="422" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="820" cy="422" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="930" cy="422" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="980" cy="422" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1030" cy="422" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1080" cy="422" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1130" cy="422" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<polyline points="620,453 820,453" fill="none" stroke="#CBDAD4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<polyline points="930,453 1130,453" fill="none" stroke="#D0D9DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<text x="591" y="443" fill="#54716A" font-family="Microsoft YaHei,Arial,sans-serif" font-size="17" font-weight="400" text-anchor="middle" dominant-baseline="text-before-edge">4</text>
+<circle cx="620" cy="453" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="670" cy="453" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="720" cy="453" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="770" cy="453" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="820" cy="453" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="930" cy="453" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="980" cy="453" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1030" cy="453" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1080" cy="453" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1130" cy="453" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<polyline points="620,484 820,484" fill="none" stroke="#CBDAD4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<polyline points="930,484 1130,484" fill="none" stroke="#D0D9DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<text x="591" y="474" fill="#54716A" font-family="Microsoft YaHei,Arial,sans-serif" font-size="17" font-weight="400" text-anchor="middle" dominant-baseline="text-before-edge">5</text>
+<circle cx="620" cy="484" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="670" cy="484" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="720" cy="484" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="770" cy="484" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="820" cy="484" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="930" cy="484" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="980" cy="484" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1030" cy="484" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1080" cy="484" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1130" cy="484" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<polyline points="620,515 820,515" fill="none" stroke="#CBDAD4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<polyline points="930,515 1130,515" fill="none" stroke="#D0D9DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<text x="591" y="505" fill="#54716A" font-family="Microsoft YaHei,Arial,sans-serif" font-size="17" font-weight="400" text-anchor="middle" dominant-baseline="text-before-edge">6</text>
+<circle cx="620" cy="515" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="670" cy="515" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="720" cy="515" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="770" cy="515" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="820" cy="515" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="930" cy="515" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="980" cy="515" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1030" cy="515" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1080" cy="515" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1130" cy="515" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<polyline points="620,546 820,546" fill="none" stroke="#CBDAD4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<polyline points="930,546 1130,546" fill="none" stroke="#D0D9DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<text x="591" y="536" fill="#54716A" font-family="Microsoft YaHei,Arial,sans-serif" font-size="17" font-weight="400" text-anchor="middle" dominant-baseline="text-before-edge">7</text>
+<circle cx="620" cy="546" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="670" cy="546" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="720" cy="546" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="770" cy="546" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="820" cy="546" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="930" cy="546" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="980" cy="546" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1030" cy="546" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1080" cy="546" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1130" cy="546" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<polyline points="620,577 820,577" fill="none" stroke="#CBDAD4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<polyline points="930,577 1130,577" fill="none" stroke="#D0D9DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<text x="591" y="567" fill="#54716A" font-family="Microsoft YaHei,Arial,sans-serif" font-size="17" font-weight="400" text-anchor="middle" dominant-baseline="text-before-edge">8</text>
+<circle cx="620" cy="577" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="670" cy="577" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="720" cy="577" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="770" cy="577" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="820" cy="577" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="930" cy="577" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="980" cy="577" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1030" cy="577" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1080" cy="577" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1130" cy="577" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<polyline points="620,608 820,608" fill="none" stroke="#CBDAD4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<polyline points="930,608 1130,608" fill="none" stroke="#D0D9DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<text x="591" y="598" fill="#54716A" font-family="Microsoft YaHei,Arial,sans-serif" font-size="17" font-weight="400" text-anchor="middle" dominant-baseline="text-before-edge">9</text>
+<circle cx="620" cy="608" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="670" cy="608" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="720" cy="608" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="770" cy="608" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="820" cy="608" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="930" cy="608" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="980" cy="608" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1030" cy="608" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1080" cy="608" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1130" cy="608" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<rect x="602" y="627" width="238" height="24" rx="5" fill="#ECF5F1" stroke="none" stroke-width="1" />
+<rect x="911" y="627" width="238" height="24" rx="5" fill="#EDF0F2" stroke="none" stroke-width="1" />
+<polyline points="620,639 820,639" fill="none" stroke="#CBDAD4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<polyline points="930,639 1130,639" fill="none" stroke="#D0D9DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<text x="591" y="629" fill="#54716A" font-family="Microsoft YaHei,Arial,sans-serif" font-size="17" font-weight="400" text-anchor="middle" dominant-baseline="text-before-edge">10</text>
+<circle cx="620" cy="639" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="670" cy="639" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="720" cy="639" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="770" cy="639" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="820" cy="639" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="930" cy="639" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="980" cy="639" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1030" cy="639" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1080" cy="639" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1130" cy="639" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<polyline points="620,670 820,670" fill="none" stroke="#CBDAD4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<polyline points="930,670 1130,670" fill="none" stroke="#D0D9DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<text x="591" y="660" fill="#54716A" font-family="Microsoft YaHei,Arial,sans-serif" font-size="17" font-weight="400" text-anchor="middle" dominant-baseline="text-before-edge">11</text>
+<circle cx="620" cy="670" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="670" cy="670" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="720" cy="670" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="770" cy="670" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="820" cy="670" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="930" cy="670" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="980" cy="670" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1030" cy="670" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1080" cy="670" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1130" cy="670" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<polyline points="620,701 820,701" fill="none" stroke="#CBDAD4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<polyline points="930,701 1130,701" fill="none" stroke="#D0D9DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<text x="591" y="691" fill="#54716A" font-family="Microsoft YaHei,Arial,sans-serif" font-size="17" font-weight="400" text-anchor="middle" dominant-baseline="text-before-edge">12</text>
+<circle cx="620" cy="701" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="670" cy="701" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="720" cy="701" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="770" cy="701" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="820" cy="701" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="930" cy="701" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="980" cy="701" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1030" cy="701" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1080" cy="701" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1130" cy="701" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<polyline points="620,732 820,732" fill="none" stroke="#CBDAD4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<polyline points="930,732 1130,732" fill="none" stroke="#D0D9DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<text x="591" y="722" fill="#54716A" font-family="Microsoft YaHei,Arial,sans-serif" font-size="17" font-weight="400" text-anchor="middle" dominant-baseline="text-before-edge">13</text>
+<circle cx="620" cy="732" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="670" cy="732" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="720" cy="732" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="770" cy="732" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="820" cy="732" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="930" cy="732" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="980" cy="732" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1030" cy="732" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1080" cy="732" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1130" cy="732" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<rect x="602" y="751" width="238" height="24" rx="5" fill="#ECF5F1" stroke="none" stroke-width="1" />
+<rect x="911" y="751" width="238" height="24" rx="5" fill="#EDF0F2" stroke="none" stroke-width="1" />
+<polyline points="620,763 820,763" fill="none" stroke="#CBDAD4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<polyline points="930,763 1130,763" fill="none" stroke="#D0D9DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<text x="591" y="753" fill="#54716A" font-family="Microsoft YaHei,Arial,sans-serif" font-size="17" font-weight="400" text-anchor="middle" dominant-baseline="text-before-edge">14</text>
+<circle cx="620" cy="763" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="670" cy="763" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="720" cy="763" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="770" cy="763" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="820" cy="763" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="930" cy="763" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="980" cy="763" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1030" cy="763" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1080" cy="763" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1130" cy="763" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<polyline points="620,794 820,794" fill="none" stroke="#CBDAD4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<polyline points="930,794 1130,794" fill="none" stroke="#D0D9DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<text x="591" y="784" fill="#54716A" font-family="Microsoft YaHei,Arial,sans-serif" font-size="17" font-weight="400" text-anchor="middle" dominant-baseline="text-before-edge">15</text>
+<circle cx="620" cy="794" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="670" cy="794" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="720" cy="794" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="770" cy="794" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="820" cy="794" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="930" cy="794" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="980" cy="794" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1030" cy="794" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1080" cy="794" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1130" cy="794" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<polyline points="620,825 820,825" fill="none" stroke="#CBDAD4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<polyline points="930,825 1130,825" fill="none" stroke="#D0D9DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<text x="591" y="815" fill="#54716A" font-family="Microsoft YaHei,Arial,sans-serif" font-size="17" font-weight="400" text-anchor="middle" dominant-baseline="text-before-edge">16</text>
+<circle cx="620" cy="825" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="670" cy="825" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="720" cy="825" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="770" cy="825" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="820" cy="825" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="930" cy="825" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="980" cy="825" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1030" cy="825" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1080" cy="825" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1130" cy="825" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<polyline points="620,856 820,856" fill="none" stroke="#CBDAD4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<polyline points="930,856 1130,856" fill="none" stroke="#D0D9DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<text x="591" y="846" fill="#54716A" font-family="Microsoft YaHei,Arial,sans-serif" font-size="17" font-weight="400" text-anchor="middle" dominant-baseline="text-before-edge">17</text>
+<circle cx="620" cy="856" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="670" cy="856" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="720" cy="856" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="770" cy="856" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="820" cy="856" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="930" cy="856" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="980" cy="856" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1030" cy="856" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1080" cy="856" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1130" cy="856" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<rect x="602" y="875" width="238" height="24" rx="5" fill="#ECF5F1" stroke="none" stroke-width="1" />
+<rect x="911" y="875" width="238" height="24" rx="5" fill="#EDF0F2" stroke="none" stroke-width="1" />
+<polyline points="620,887 820,887" fill="none" stroke="#CBDAD4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<polyline points="930,887 1130,887" fill="none" stroke="#D0D9DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<text x="591" y="877" fill="#54716A" font-family="Microsoft YaHei,Arial,sans-serif" font-size="17" font-weight="400" text-anchor="middle" dominant-baseline="text-before-edge">18</text>
+<circle cx="620" cy="887" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="670" cy="887" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="720" cy="887" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="770" cy="887" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="820" cy="887" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="930" cy="887" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="980" cy="887" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1030" cy="887" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1080" cy="887" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1130" cy="887" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<polyline points="620,918 820,918" fill="none" stroke="#CBDAD4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<polyline points="930,918 1130,918" fill="none" stroke="#D0D9DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<text x="591" y="908" fill="#54716A" font-family="Microsoft YaHei,Arial,sans-serif" font-size="17" font-weight="400" text-anchor="middle" dominant-baseline="text-before-edge">19</text>
+<circle cx="620" cy="918" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="670" cy="918" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="720" cy="918" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="770" cy="918" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="820" cy="918" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="930" cy="918" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="980" cy="918" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1030" cy="918" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1080" cy="918" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1130" cy="918" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<polyline points="620,949 820,949" fill="none" stroke="#CBDAD4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<polyline points="930,949 1130,949" fill="none" stroke="#D0D9DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<text x="591" y="939" fill="#54716A" font-family="Microsoft YaHei,Arial,sans-serif" font-size="17" font-weight="400" text-anchor="middle" dominant-baseline="text-before-edge">20</text>
+<circle cx="620" cy="949" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="670" cy="949" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="720" cy="949" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="770" cy="949" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="820" cy="949" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="930" cy="949" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="980" cy="949" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1030" cy="949" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1080" cy="949" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1130" cy="949" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<polyline points="620,980 820,980" fill="none" stroke="#CBDAD4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<polyline points="930,980 1130,980" fill="none" stroke="#D0D9DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<text x="591" y="970" fill="#54716A" font-family="Microsoft YaHei,Arial,sans-serif" font-size="17" font-weight="400" text-anchor="middle" dominant-baseline="text-before-edge">21</text>
+<circle cx="620" cy="980" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="670" cy="980" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="720" cy="980" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="770" cy="980" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="820" cy="980" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="930" cy="980" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="980" cy="980" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1030" cy="980" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1080" cy="980" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1130" cy="980" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<rect x="602" y="999" width="238" height="24" rx="5" fill="#ECF5F1" stroke="none" stroke-width="1" />
+<rect x="911" y="999" width="238" height="24" rx="5" fill="#EDF0F2" stroke="none" stroke-width="1" />
+<polyline points="620,1011 820,1011" fill="none" stroke="#CBDAD4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<polyline points="930,1011 1130,1011" fill="none" stroke="#D0D9DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<text x="591" y="1001" fill="#54716A" font-family="Microsoft YaHei,Arial,sans-serif" font-size="17" font-weight="400" text-anchor="middle" dominant-baseline="text-before-edge">22</text>
+<circle cx="620" cy="1011" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="670" cy="1011" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="720" cy="1011" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="770" cy="1011" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="820" cy="1011" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="930" cy="1011" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="980" cy="1011" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1030" cy="1011" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1080" cy="1011" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1130" cy="1011" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<polyline points="620,1042 820,1042" fill="none" stroke="#CBDAD4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<polyline points="930,1042 1130,1042" fill="none" stroke="#D0D9DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<text x="591" y="1032" fill="#54716A" font-family="Microsoft YaHei,Arial,sans-serif" font-size="17" font-weight="400" text-anchor="middle" dominant-baseline="text-before-edge">23</text>
+<circle cx="620" cy="1042" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="670" cy="1042" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="720" cy="1042" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="770" cy="1042" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="820" cy="1042" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="930" cy="1042" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="980" cy="1042" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1030" cy="1042" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1080" cy="1042" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1130" cy="1042" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<polyline points="620,1073 820,1073" fill="none" stroke="#CBDAD4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<polyline points="930,1073 1130,1073" fill="none" stroke="#D0D9DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<text x="591" y="1063" fill="#54716A" font-family="Microsoft YaHei,Arial,sans-serif" font-size="17" font-weight="400" text-anchor="middle" dominant-baseline="text-before-edge">24</text>
+<circle cx="620" cy="1073" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="670" cy="1073" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="720" cy="1073" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="770" cy="1073" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="820" cy="1073" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="930" cy="1073" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="980" cy="1073" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1030" cy="1073" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1080" cy="1073" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1130" cy="1073" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<polyline points="620,1104 820,1104" fill="none" stroke="#CBDAD4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<polyline points="930,1104 1130,1104" fill="none" stroke="#D0D9DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<text x="591" y="1094" fill="#54716A" font-family="Microsoft YaHei,Arial,sans-serif" font-size="17" font-weight="400" text-anchor="middle" dominant-baseline="text-before-edge">25</text>
+<circle cx="620" cy="1104" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="670" cy="1104" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="720" cy="1104" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="770" cy="1104" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="820" cy="1104" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="930" cy="1104" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="980" cy="1104" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1030" cy="1104" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1080" cy="1104" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1130" cy="1104" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<rect x="602" y="1123" width="238" height="24" rx="5" fill="#ECF5F1" stroke="none" stroke-width="1" />
+<rect x="911" y="1123" width="238" height="24" rx="5" fill="#EDF0F2" stroke="none" stroke-width="1" />
+<polyline points="620,1135 820,1135" fill="none" stroke="#CBDAD4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<polyline points="930,1135 1130,1135" fill="none" stroke="#D0D9DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<text x="591" y="1125" fill="#54716A" font-family="Microsoft YaHei,Arial,sans-serif" font-size="17" font-weight="400" text-anchor="middle" dominant-baseline="text-before-edge">26</text>
+<circle cx="620" cy="1135" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="670" cy="1135" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="720" cy="1135" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="770" cy="1135" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="820" cy="1135" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="930" cy="1135" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="980" cy="1135" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1030" cy="1135" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1080" cy="1135" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1130" cy="1135" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<polyline points="620,1166 820,1166" fill="none" stroke="#CBDAD4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<polyline points="930,1166 1130,1166" fill="none" stroke="#D0D9DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<text x="591" y="1156" fill="#54716A" font-family="Microsoft YaHei,Arial,sans-serif" font-size="17" font-weight="400" text-anchor="middle" dominant-baseline="text-before-edge">27</text>
+<circle cx="620" cy="1166" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="670" cy="1166" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="720" cy="1166" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="770" cy="1166" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="820" cy="1166" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="930" cy="1166" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="980" cy="1166" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1030" cy="1166" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1080" cy="1166" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1130" cy="1166" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<polyline points="620,1197 820,1197" fill="none" stroke="#CBDAD4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<polyline points="930,1197 1130,1197" fill="none" stroke="#D0D9DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<text x="591" y="1187" fill="#54716A" font-family="Microsoft YaHei,Arial,sans-serif" font-size="17" font-weight="400" text-anchor="middle" dominant-baseline="text-before-edge">28</text>
+<circle cx="620" cy="1197" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="670" cy="1197" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="720" cy="1197" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="770" cy="1197" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="820" cy="1197" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="930" cy="1197" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="980" cy="1197" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1030" cy="1197" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1080" cy="1197" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1130" cy="1197" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<polyline points="620,1228 820,1228" fill="none" stroke="#CBDAD4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<polyline points="930,1228 1130,1228" fill="none" stroke="#D0D9DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<text x="591" y="1218" fill="#54716A" font-family="Microsoft YaHei,Arial,sans-serif" font-size="17" font-weight="400" text-anchor="middle" dominant-baseline="text-before-edge">29</text>
+<circle cx="620" cy="1228" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="670" cy="1228" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="720" cy="1228" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="770" cy="1228" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="820" cy="1228" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="930" cy="1228" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="980" cy="1228" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1030" cy="1228" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1080" cy="1228" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1130" cy="1228" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<polyline points="620,1259 820,1259" fill="none" stroke="#CBDAD4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<polyline points="930,1259 1130,1259" fill="none" stroke="#D0D9DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<text x="591" y="1249" fill="#54716A" font-family="Microsoft YaHei,Arial,sans-serif" font-size="17" font-weight="400" text-anchor="middle" dominant-baseline="text-before-edge">30</text>
+<circle cx="620" cy="1259" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="670" cy="1259" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="720" cy="1259" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="770" cy="1259" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="820" cy="1259" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="930" cy="1259" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="980" cy="1259" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1030" cy="1259" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1080" cy="1259" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<circle cx="1130" cy="1259" r="4" fill="#BAC6C2" stroke="none" stroke-width="1" />
+<polyline points="820,391 842,391 842,422 820,422" fill="none" stroke="#B53D36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+<polyline points="980,391 960,391 960,422 980,422" fill="none" stroke="#48545C" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+<circle cx="620" cy="391" r="7" fill="#B53D36" stroke="#FFFFFF" stroke-width="1" />
+<circle cx="670" cy="391" r="7" fill="#B53D36" stroke="#FFFFFF" stroke-width="1" />
+<circle cx="720" cy="391" r="7" fill="#B53D36" stroke="#FFFFFF" stroke-width="1" />
+<circle cx="770" cy="391" r="7" fill="#B53D36" stroke="#FFFFFF" stroke-width="1" />
+<circle cx="670" cy="422" r="7" fill="#B53D36" stroke="#FFFFFF" stroke-width="1" />
+<circle cx="720" cy="422" r="7" fill="#B53D36" stroke="#FFFFFF" stroke-width="1" />
+<circle cx="820" cy="391" r="7" fill="#B53D36" stroke="#FFFFFF" stroke-width="1" />
+<circle cx="820" cy="422" r="7" fill="#B53D36" stroke="#FFFFFF" stroke-width="1" />
+<circle cx="930" cy="391" r="7" fill="#48545C" stroke="#FFFFFF" stroke-width="1" />
+<circle cx="980" cy="391" r="7" fill="#48545C" stroke="#FFFFFF" stroke-width="1" />
+<circle cx="980" cy="422" r="7" fill="#48545C" stroke="#FFFFFF" stroke-width="1" />
+<circle cx="1030" cy="391" r="7" fill="#48545C" stroke="#FFFFFF" stroke-width="1" />
+<circle cx="1080" cy="391" r="7" fill="#48545C" stroke="#FFFFFF" stroke-width="1" />
+<circle cx="1130" cy="391" r="7" fill="#48545C" stroke="#FFFFFF" stroke-width="1" />
+<circle cx="1030" cy="422" r="7" fill="#48545C" stroke="#FFFFFF" stroke-width="1" />
+<circle cx="1080" cy="422" r="7" fill="#48545C" stroke="#FFFFFF" stroke-width="1" />
+<rect x="60" y="312" width="452" height="206" rx="14" fill="#FDEFEA" stroke="none" stroke-width="1" />
+<text x="82" y="333" fill="#B53D36" font-family="Microsoft YaHei,Arial,sans-serif" font-size="29" font-weight="700" text-anchor="start" dominant-baseline="text-before-edge">3V3 公共区</text>
+<text x="82" y="379" fill="#B53D36" font-family="Microsoft YaHei,Arial,sans-serif" font-size="27" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">开发板 3V3 → A2</text>
+<text x="82" y="425" fill="#B53D36" font-family="Microsoft YaHei,Arial,sans-serif" font-size="26" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">公对公跳线 E2 — E3</text>
+<text x="82" y="469" fill="#183B35" font-family="Microsoft YaHei,Arial,sans-serif" font-size="21" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">五片 FSR 脚1分接 B2/C2/D2/B3/C3</text>
+<rect x="1220" y="312" width="520" height="206" rx="14" fill="#EEF1F3" stroke="none" stroke-width="1" />
+<text x="1242" y="333" fill="#48545C" font-family="Microsoft YaHei,Arial,sans-serif" font-size="29" font-weight="700" text-anchor="start" dominant-baseline="text-before-edge">GND 公共区</text>
+<text x="1242" y="379" fill="#48545C" font-family="Microsoft YaHei,Arial,sans-serif" font-size="27" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">开发板 GND → F2</text>
+<text x="1242" y="425" fill="#48545C" font-family="Microsoft YaHei,Arial,sans-serif" font-size="26" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">公对公跳线 G2 — G3</text>
+<text x="1242" y="469" fill="#183B35" font-family="Microsoft YaHei,Arial,sans-serif" font-size="23" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">五路回地分接 H2/I2/J2/H3/I3</text>
+<rect x="60" y="593" width="452" height="112" rx="12" fill="#FFFFFF" stroke="#CFDAD6" stroke-width="1" />
+<text x="82" y="603" fill="#087E70" font-family="Microsoft YaHei,Arial,sans-serif" font-size="26" font-weight="700" text-anchor="start" dominant-baseline="text-before-edge">P_C  背部中央</text>
+<text x="82" y="643" fill="#183B35" font-family="Microsoft YaHei,Arial,sans-serif" font-size="23" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">FSR 脚1 → B2  /  脚2 → A10</text>
+<text x="82" y="677" fill="#54716A" font-family="Microsoft YaHei,Arial,sans-serif" font-size="19" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">方形压力传感片</text>
+<polyline points="513,639 620,639" fill="none" stroke="#087E70" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+<circle cx="620" cy="639" r="8" fill="#087E70" stroke="#FFFFFF" stroke-width="1" />
+<circle cx="670" cy="639" r="8" fill="#087E70" stroke="#FFFFFF" stroke-width="1" />
+<text x="675" y="659" fill="#087E70" font-family="Microsoft YaHei,Arial,sans-serif" font-size="19" font-weight="400" text-anchor="middle" dominant-baseline="text-before-edge">GPIO8</text>
+<polyline points="820,639 866,639" fill="none" stroke="#B96D13" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+<rect x="866" y="622" width="124" height="34" rx="6" fill="#FFF5E6" stroke="#B96D13" stroke-width="2" />
+<text x="928" y="626" fill="#B96D13" font-family="Microsoft YaHei,Arial,sans-serif" font-size="20" font-weight="700" text-anchor="middle" dominant-baseline="text-before-edge">1K</text>
+<polyline points="990,639 1030,639" fill="none" stroke="#B96D13" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+<circle cx="820" cy="639" r="6" fill="#B96D13" stroke="none" stroke-width="1" />
+<circle cx="1030" cy="639" r="6" fill="#B96D13" stroke="none" stroke-width="1" />
+<circle cx="1130" cy="639" r="8" fill="#48545C" stroke="#FFFFFF" stroke-width="1" />
+<rect x="1220" y="593" width="520" height="112" rx="12" fill="#FFFFFF" stroke="#CFDAD6" stroke-width="1" />
+<text x="1242" y="603" fill="#087E70" font-family="Microsoft YaHei,Arial,sans-serif" font-size="25" font-weight="700" text-anchor="start" dominant-baseline="text-before-edge">读取线  B10 → GPIO8</text>
+<text x="1242" y="642" fill="#B96D13" font-family="Microsoft YaHei,Arial,sans-serif" font-size="23" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">电阻两脚  E10 — H10</text>
+<text x="1242" y="676" fill="#48545C" font-family="Microsoft YaHei,Arial,sans-serif" font-size="23" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">回地跳线  J10 — H2</text>
+<rect x="60" y="717" width="452" height="112" rx="12" fill="#FFFFFF" stroke="#CFDAD6" stroke-width="1" />
+<text x="82" y="727" fill="#216AA5" font-family="Microsoft YaHei,Arial,sans-serif" font-size="26" font-weight="700" text-anchor="start" dominant-baseline="text-before-edge">S_L  臀下左</text>
+<text x="82" y="767" fill="#183B35" font-family="Microsoft YaHei,Arial,sans-serif" font-size="23" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">FSR 脚1 → C2  /  脚2 → A14</text>
+<text x="82" y="801" fill="#54716A" font-family="Microsoft YaHei,Arial,sans-serif" font-size="19" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">圆形压力传感片</text>
+<polyline points="513,763 620,763" fill="none" stroke="#216AA5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+<circle cx="620" cy="763" r="8" fill="#216AA5" stroke="#FFFFFF" stroke-width="1" />
+<circle cx="670" cy="763" r="8" fill="#216AA5" stroke="#FFFFFF" stroke-width="1" />
+<text x="675" y="783" fill="#216AA5" font-family="Microsoft YaHei,Arial,sans-serif" font-size="19" font-weight="400" text-anchor="middle" dominant-baseline="text-before-edge">GPIO4</text>
+<polyline points="820,763 866,763" fill="none" stroke="#B96D13" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+<rect x="866" y="746" width="124" height="34" rx="6" fill="#FFF5E6" stroke="#B96D13" stroke-width="2" />
+<text x="928" y="750" fill="#B96D13" font-family="Microsoft YaHei,Arial,sans-serif" font-size="20" font-weight="700" text-anchor="middle" dominant-baseline="text-before-edge">1K</text>
+<polyline points="990,763 1030,763" fill="none" stroke="#B96D13" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+<circle cx="820" cy="763" r="6" fill="#B96D13" stroke="none" stroke-width="1" />
+<circle cx="1030" cy="763" r="6" fill="#B96D13" stroke="none" stroke-width="1" />
+<circle cx="1130" cy="763" r="8" fill="#48545C" stroke="#FFFFFF" stroke-width="1" />
+<rect x="1220" y="717" width="520" height="112" rx="12" fill="#FFFFFF" stroke="#CFDAD6" stroke-width="1" />
+<text x="1242" y="727" fill="#216AA5" font-family="Microsoft YaHei,Arial,sans-serif" font-size="25" font-weight="700" text-anchor="start" dominant-baseline="text-before-edge">读取线  B14 → GPIO4</text>
+<text x="1242" y="766" fill="#B96D13" font-family="Microsoft YaHei,Arial,sans-serif" font-size="23" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">电阻两脚  E14 — H14</text>
+<text x="1242" y="800" fill="#48545C" font-family="Microsoft YaHei,Arial,sans-serif" font-size="23" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">回地跳线  J14 — I2</text>
+<rect x="60" y="841" width="452" height="112" rx="12" fill="#FFFFFF" stroke="#CFDAD6" stroke-width="1" />
+<text x="82" y="851" fill="#216AA5" font-family="Microsoft YaHei,Arial,sans-serif" font-size="26" font-weight="700" text-anchor="start" dominant-baseline="text-before-edge">S_R  臀下右</text>
+<text x="82" y="891" fill="#183B35" font-family="Microsoft YaHei,Arial,sans-serif" font-size="23" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">FSR 脚1 → D2  /  脚2 → A18</text>
+<text x="82" y="925" fill="#54716A" font-family="Microsoft YaHei,Arial,sans-serif" font-size="19" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">圆形压力传感片</text>
+<polyline points="513,887 620,887" fill="none" stroke="#216AA5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+<circle cx="620" cy="887" r="8" fill="#216AA5" stroke="#FFFFFF" stroke-width="1" />
+<circle cx="670" cy="887" r="8" fill="#216AA5" stroke="#FFFFFF" stroke-width="1" />
+<text x="675" y="907" fill="#216AA5" font-family="Microsoft YaHei,Arial,sans-serif" font-size="19" font-weight="400" text-anchor="middle" dominant-baseline="text-before-edge">GPIO5</text>
+<polyline points="820,887 866,887" fill="none" stroke="#B96D13" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+<rect x="866" y="870" width="124" height="34" rx="6" fill="#FFF5E6" stroke="#B96D13" stroke-width="2" />
+<text x="928" y="874" fill="#B96D13" font-family="Microsoft YaHei,Arial,sans-serif" font-size="20" font-weight="700" text-anchor="middle" dominant-baseline="text-before-edge">1K</text>
+<polyline points="990,887 1030,887" fill="none" stroke="#B96D13" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+<circle cx="820" cy="887" r="6" fill="#B96D13" stroke="none" stroke-width="1" />
+<circle cx="1030" cy="887" r="6" fill="#B96D13" stroke="none" stroke-width="1" />
+<circle cx="1130" cy="887" r="8" fill="#48545C" stroke="#FFFFFF" stroke-width="1" />
+<rect x="1220" y="841" width="520" height="112" rx="12" fill="#FFFFFF" stroke="#CFDAD6" stroke-width="1" />
+<text x="1242" y="851" fill="#216AA5" font-family="Microsoft YaHei,Arial,sans-serif" font-size="25" font-weight="700" text-anchor="start" dominant-baseline="text-before-edge">读取线  B18 → GPIO5</text>
+<text x="1242" y="890" fill="#B96D13" font-family="Microsoft YaHei,Arial,sans-serif" font-size="23" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">电阻两脚  E18 — H18</text>
+<text x="1242" y="924" fill="#48545C" font-family="Microsoft YaHei,Arial,sans-serif" font-size="23" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">回地跳线  J18 — J2</text>
+<rect x="60" y="965" width="452" height="112" rx="12" fill="#FFFFFF" stroke="#CFDAD6" stroke-width="1" />
+<text x="82" y="975" fill="#6B55A6" font-family="Microsoft YaHei,Arial,sans-serif" font-size="26" font-weight="700" text-anchor="start" dominant-baseline="text-before-edge">B_L  腿侧左</text>
+<text x="82" y="1015" fill="#183B35" font-family="Microsoft YaHei,Arial,sans-serif" font-size="23" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">FSR 脚1 → B3  /  脚2 → A22</text>
+<text x="82" y="1049" fill="#54716A" font-family="Microsoft YaHei,Arial,sans-serif" font-size="19" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">圆形压力传感片</text>
+<polyline points="513,1011 620,1011" fill="none" stroke="#6B55A6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+<circle cx="620" cy="1011" r="8" fill="#6B55A6" stroke="#FFFFFF" stroke-width="1" />
+<circle cx="670" cy="1011" r="8" fill="#6B55A6" stroke="#FFFFFF" stroke-width="1" />
+<text x="675" y="1031" fill="#6B55A6" font-family="Microsoft YaHei,Arial,sans-serif" font-size="19" font-weight="400" text-anchor="middle" dominant-baseline="text-before-edge">GPIO6</text>
+<polyline points="820,1011 866,1011" fill="none" stroke="#B96D13" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+<rect x="866" y="994" width="124" height="34" rx="6" fill="#FFF5E6" stroke="#B96D13" stroke-width="2" />
+<text x="928" y="998" fill="#B96D13" font-family="Microsoft YaHei,Arial,sans-serif" font-size="20" font-weight="700" text-anchor="middle" dominant-baseline="text-before-edge">10K</text>
+<polyline points="990,1011 1030,1011" fill="none" stroke="#B96D13" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+<circle cx="820" cy="1011" r="6" fill="#B96D13" stroke="none" stroke-width="1" />
+<circle cx="1030" cy="1011" r="6" fill="#B96D13" stroke="none" stroke-width="1" />
+<circle cx="1130" cy="1011" r="8" fill="#48545C" stroke="#FFFFFF" stroke-width="1" />
+<rect x="1220" y="965" width="520" height="112" rx="12" fill="#FFFFFF" stroke="#CFDAD6" stroke-width="1" />
+<text x="1242" y="975" fill="#6B55A6" font-family="Microsoft YaHei,Arial,sans-serif" font-size="25" font-weight="700" text-anchor="start" dominant-baseline="text-before-edge">读取线  B22 → GPIO6</text>
+<text x="1242" y="1014" fill="#B96D13" font-family="Microsoft YaHei,Arial,sans-serif" font-size="23" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">电阻两脚  E22 — H22</text>
+<text x="1242" y="1048" fill="#48545C" font-family="Microsoft YaHei,Arial,sans-serif" font-size="23" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">回地跳线  J22 — H3</text>
+<rect x="60" y="1089" width="452" height="112" rx="12" fill="#FFFFFF" stroke="#CFDAD6" stroke-width="1" />
+<text x="82" y="1099" fill="#6B55A6" font-family="Microsoft YaHei,Arial,sans-serif" font-size="26" font-weight="700" text-anchor="start" dominant-baseline="text-before-edge">B_R  腿侧右</text>
+<text x="82" y="1139" fill="#183B35" font-family="Microsoft YaHei,Arial,sans-serif" font-size="23" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">FSR 脚1 → C3  /  脚2 → A26</text>
+<text x="82" y="1173" fill="#54716A" font-family="Microsoft YaHei,Arial,sans-serif" font-size="19" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">圆形压力传感片</text>
+<polyline points="513,1135 620,1135" fill="none" stroke="#6B55A6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+<circle cx="620" cy="1135" r="8" fill="#6B55A6" stroke="#FFFFFF" stroke-width="1" />
+<circle cx="670" cy="1135" r="8" fill="#6B55A6" stroke="#FFFFFF" stroke-width="1" />
+<text x="675" y="1155" fill="#6B55A6" font-family="Microsoft YaHei,Arial,sans-serif" font-size="19" font-weight="400" text-anchor="middle" dominant-baseline="text-before-edge">GPIO7</text>
+<polyline points="820,1135 866,1135" fill="none" stroke="#B96D13" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+<rect x="866" y="1118" width="124" height="34" rx="6" fill="#FFF5E6" stroke="#B96D13" stroke-width="2" />
+<text x="928" y="1122" fill="#B96D13" font-family="Microsoft YaHei,Arial,sans-serif" font-size="20" font-weight="700" text-anchor="middle" dominant-baseline="text-before-edge">10K</text>
+<polyline points="990,1135 1030,1135" fill="none" stroke="#B96D13" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+<circle cx="820" cy="1135" r="6" fill="#B96D13" stroke="none" stroke-width="1" />
+<circle cx="1030" cy="1135" r="6" fill="#B96D13" stroke="none" stroke-width="1" />
+<circle cx="1130" cy="1135" r="8" fill="#48545C" stroke="#FFFFFF" stroke-width="1" />
+<rect x="1220" y="1089" width="520" height="112" rx="12" fill="#FFFFFF" stroke="#CFDAD6" stroke-width="1" />
+<text x="1242" y="1099" fill="#6B55A6" font-family="Microsoft YaHei,Arial,sans-serif" font-size="25" font-weight="700" text-anchor="start" dominant-baseline="text-before-edge">读取线  B26 → GPIO7</text>
+<text x="1242" y="1138" fill="#B96D13" font-family="Microsoft YaHei,Arial,sans-serif" font-size="23" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">电阻两脚  E26 — H26</text>
+<text x="1242" y="1172" fill="#48545C" font-family="Microsoft YaHei,Arial,sans-serif" font-size="23" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">回地跳线  J26 — I3</text>
+<rect x="60" y="1340" width="1680" height="214" rx="16" fill="#E7F4EE" stroke="none" stroke-width="1" />
+<text x="86" y="1356" fill="#183B35" font-family="Microsoft YaHei,Arial,sans-serif" font-size="27" font-weight="700" text-anchor="start" dominant-baseline="text-before-edge">配线：公对母 17 根（板 7 + FSR 10）；公对公 7 根（跨排 2 + 回地 5）。</text>
+<text x="86" y="1403" fill="#183B35" font-family="Microsoft YaHei,Arial,sans-serif" font-size="25" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">以 P_C 为例：A10 / B10 / E10 是一个信号节点；H10 / J10 是回地节点。</text>
+<text x="86" y="1451" fill="#183B35" font-family="Microsoft YaHei,Arial,sans-serif" font-size="24" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">当前阻值为工程起点；各路量程应结合实际软垫与加载校准。</text>
+<text x="86" y="1500" fill="#183B35" font-family="Microsoft YaHei,Arial,sans-serif" font-size="24" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">程序协议仍按 S_L、S_R、B_L、B_R、P_C 排列；对应 GPIO4、5、6、7、8。</text>
+<text x="60" y="1589" fill="#54716A" font-family="Microsoft YaHei,Arial,sans-serif" font-size="21" font-weight="400" text-anchor="start" dominant-baseline="text-before-edge">孔位与固件协议一致；改变点位、覆盖层或阻值后重新建立个人参考。</text>
+</svg>

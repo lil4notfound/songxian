@@ -1,0 +1,4 @@
+#pragma once
+
+#define SONGXIAN_DEVICE_TOKEN ""
+#define SONGXIAN_SETUP_PASSWORD ""
